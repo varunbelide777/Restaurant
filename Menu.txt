@@ -4,3 +4,5 @@
 4.biryani
 5.sambar
 6.kheerr
+9.Mandi
+10.Pizza
