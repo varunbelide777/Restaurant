@@ -2,3 +2,5 @@
 2.noodles
 3.Friedrice
 4.biryani
+5.sambar
+6.kheerr
