@@ -7,3 +7,5 @@
 9.Mandi
 10.Pizza
 11.sambar
+12.Beans
+13.panipuri
